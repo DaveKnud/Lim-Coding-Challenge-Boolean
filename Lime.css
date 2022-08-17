@@ -1,0 +1,86 @@
+html{
+ background-image: url(file:///C:/Users/Dave%20Knud/Documents/lime/background.jpg);
+ background-size:100% ;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+
+body{
+  width: 1000px;
+  margin:auto;
+  padding:100px;
+}
+
+
+.sfondonero{
+  display: inline;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 50%;
+  border-radius: 25px;
+}
+
+.barracentraleprenotazione{
+  background-color: rgba(0, 255, 0, 0.9 );
+  width: 800px;
+  height: 30px;
+  display: inline-block;
+}
+
+.logo{
+ display: block;
+ width: 20%;
+ margin-top: 10%;
+ margin: auto;
+}
+
+
+.titolo{
+  display: inline;
+  color: rgb(0, 240, 0);
+  text-align: center;
+  font-size: 180%;
+}
+
+
+.titolimonopattini{
+  font-family: Calibri;
+  color: white;
+  text-align: left;
+  padding-left: 10%;
+  padding-top: 1%;
+  font-size: 130%;
+}
+
+div span, .titolo{
+  font-family: Calibri;
+}
+
+.posizionemonopattini{
+  color: white;
+  font-size: 95%;
+  text-align: left;
+  padding-left: 10%;
+}
+
+.rettangolo1{
+  background-color: rgba(255, 200, 0, 0.9 );
+  width: 300px;
+  height: 25px;
+}
+
+.rettangolo2{
+  background-color: rgba(0, 255, 0, 0.9 );
+  width: 600px;
+  height: 25px;
+}
+
+.rettangolo3{
+  background-color: rgba(255, 0, 0, 0.9 );
+  width: 100px;
+  height: 25px;
+}
+
+.rettangolo1,.rettangolo2,.rettangolo3{
+  display: inline-block;
+  border-radius: 7px;
+}
